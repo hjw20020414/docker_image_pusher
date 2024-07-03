@@ -1,2 +1,7 @@
-python:alpine3.19
-nginx:1.22.0
+kube-apiserver:v1.26.15
+kube-controller-manager:v1.26.15
+kube-scheduler:v1.26.15
+kube-proxy:v1.26.15
+pause:3.9
+etcd:3.5.6-0
+coredns/coredns:v1.9.3
