@@ -1,1 +1,1 @@
-kubesphere/notification-manager-operator:v2.3.0
+kubesphere/notification-manager:v2.3.0
