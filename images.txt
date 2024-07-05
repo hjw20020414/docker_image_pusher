@@ -1,1 +1,1 @@
-kubesphere/notification-tenant-sidecar:v3.2.0
+mysql:5.6
