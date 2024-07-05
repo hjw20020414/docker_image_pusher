@@ -1,1 +1,1 @@
-wordpress:4.8-apache
+kubesphere/ks-jenkins:v3.2.0-2.249.1
