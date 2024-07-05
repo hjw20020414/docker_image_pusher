@@ -1,1 +1,1 @@
-csiplugin/snapshot-controller:v4.0.0
+kubesphere/kubectl:v1.20.0
