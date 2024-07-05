@@ -1,1 +1,1 @@
-kubesphere/ks-jenkins:v3.2.0-2.249.1
+jaegertracing/jaeger-es-index-cleaner:1.27
