@@ -1,1 +1,1 @@
-kubesphere/kubectl:v1.20.0
+kubesphere/notification-tenant-sidecar:v3.2.0
