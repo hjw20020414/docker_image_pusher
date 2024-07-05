@@ -1,1 +1,1 @@
-kubesphere/openpitrix-jobs:v3.3.2
+calico/pod2daemon-flexvol:v3.20.6
