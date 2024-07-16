@@ -1,1 +1,1 @@
-harbor
+tomcat:latest
